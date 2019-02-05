@@ -1,0 +1,21 @@
+{
+  "name": "node-headless-scraper",
+  "version": "1.0.0",
+  "description": "A github search bot implementation to scrap users data using chrome headless on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawlers",
+    "pupetter",
+    "bots",
+    "headless"
+  ],
+  "author": "Muhammad AbdulMoiz",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
